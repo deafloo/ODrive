@@ -1,7 +1,7 @@
 {
   "name": "ODrive",
   "keywords": "ODrive, motor, control",
-  "description": "Communicates with an ODrive",
+  "description": "Communicate with an ODrive",
   "authors":
   [
     {
