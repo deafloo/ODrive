@@ -1,0 +1,27 @@
+{
+  "name": "ODrive",
+  "keywords": "ODrive, motor, control",
+  "description": "Communicates with an ODrive",
+  "authors":
+  [
+    {
+      "email": "info@odriverobotics.com", 
+      "url": "https://odriverobotics.com/", 
+      "maintainer": true, 
+      "name": "Oskar Weigl"
+    }
+  ],
+  "frameworks": "arduino",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/madcowswe/ODrive.git"
+  },
+  "export":
+  {
+    "include":
+    [
+      "ODrive/Arduino/ODriveArduino"
+    ]
+  }
+}
